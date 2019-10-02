@@ -2,6 +2,7 @@ package com.lpy.git;
 
 public class GitTest1 {
     public static void main(String[] args) {
+        //hello
         System.out.println("1");
         System.out.println("2");
         System.out.println("3");
@@ -14,5 +15,6 @@ public class GitTest1 {
     public void test() {
         int i = 0;
         i +=10;
+        System.out.println(i);
     }
 }
