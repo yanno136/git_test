@@ -10,4 +10,9 @@ public class GitTest1 {
         System.out.println("6");
         System.out.println("7");
     }
+
+    public void test() {
+        int i = 0;
+        i +=10;
+    }
 }
